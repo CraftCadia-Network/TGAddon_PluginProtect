@@ -1,0 +1,7 @@
+name: TaberAddon-PluginProtect
+author: Sam Taber and Josh Hanson
+main: com.tabercore.addon.main.PluginProtect
+version: 0.0.1
+commands:
+    icanhasbukkit:
+        description: $PROTECTED
